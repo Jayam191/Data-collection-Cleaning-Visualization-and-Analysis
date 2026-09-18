@@ -1,0 +1,6 @@
+transaction_id;amount;city;status
+101;500;Ahmedabad;Success
+102;;Mumbai;Success
+103;750;;Failed
+104;300;Delhi;Success
+105;;Surat;Failed
